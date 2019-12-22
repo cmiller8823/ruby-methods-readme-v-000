@@ -3,3 +3,5 @@
 def return_name
   puts "Chris"
 end
+
+return_name
